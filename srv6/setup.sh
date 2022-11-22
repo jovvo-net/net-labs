@@ -1,5 +1,6 @@
 
 #!/usr/bin/env bash
+# SPDX-License-Identifier: GPL-2.0
 
 BGP=1
 ISIS=0

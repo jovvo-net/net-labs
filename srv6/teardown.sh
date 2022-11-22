@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# SPDX-License-Identifier: GPL-2.0
 
 sudo ip -6 addr del fcff:0:1::1/48 dev lo
 sudo ip route del table 10 10.0.1.2
